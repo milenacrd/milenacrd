@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Engenharia de Software (PUC Minas)
 ### ☕ Focada em desenvolvimento Backend com Java e Spring Boot
-### 🚀 Em busca de estágio remoto em Java
+### 🚀 Em busca de estágio em Java
 
 ## Sobre Mim
 Sou estudante do 4º período de Engenharia de Software na PUC Minas e estou em formação como desenvolvedora Backend Java.
