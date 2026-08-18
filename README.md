@@ -5,7 +5,7 @@
 
 
 ## Sobre Mim
-Sou estudante do 4º período de Engenharia de Software na PUC Minas e estou em formação como desenvolvedora Backend Java.
+Sou estudante de Engenharia de Software na PUC Minas e estou em formação como desenvolvedora Backend Java.
 Atualmente estou aprofundando meus conhecimentos em Spring Boot, APIs REST e persistência com JPA/Hibernate, desenvolvendo projetos práticos para consolidar o aprendizado.
 
 ## Principais interesses:
